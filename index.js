@@ -35,7 +35,7 @@ app.get('/', (req, res) => {
         <h1>🎉 Hello World!</h1>
         <p>Tugas PaaS - Cloud Computing</p>
         <p>Dwika Oca Ramadhanti (22010036)</p>
-        <p><strong>Platform:</strong> Railway</p>
+        <p><strong>Platform:</strong> Render.com</p>
         <p><small>Deploy berhasil! ✅</small></p>
       </div>
     </body>
